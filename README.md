@@ -2,9 +2,9 @@
 
 This repository contains three assignments for the Applied Stochastic Processes course. Each assignment is implemented in a separate Jupyter notebook:
 
-- `Assignment 1.ipynb`
-- `Assignment 2.ipynb`
-- `Assignment_III.ipynb`
+- `Assignment1.ipynb`
+- `Assignment2.ipynb`
+- `Assignment3.ipynb`
 
 ## How to Use
 
